@@ -1,8 +1,10 @@
-### Walmart-Customer-Purchase-Analysis
+### Walmart Customer Purchase Analysis
+
+This project was completed as a collaborative effort with Shaheen Chirakula and Sashank Gandikota as part of UMBC’s DATA 608 course. My specific contributions to the code were the Multiple Linear Regression and Correlation t-test sections.
 
 #### Introduction
 
-**Research Question**__: What factors influence customer purchasing behavior at Walmart, and do variables such as payment method, product category, and customer demographics significantly affect purchase amount and satisfaction?    
+_**Research Question**_: What factors influence customer purchasing behavior at Walmart, and do variables such as payment method, product category, and customer demographics significantly affect purchase amount and satisfaction?    
 
 **Objective**:
 * Analyze how customer age correlates with shopping preferences, frequency, and spending habits.
