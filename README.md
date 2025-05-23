@@ -13,6 +13,11 @@ _**Research Question**_: What factors influence customer purchasing behavior at 
 * Provide actionable insights for Walmart to enhance marketing strategies and customer experience.
 * Predict purchase amount using regression models based on demographic and behavioral features.
 
+#### Statistical Analysis Performed
+* One-Way ANOVA Test
+* Correlation t-test
+* Linear Regression - simple and multiple regressions performed along with disaggregated subgroups
+
 #### Conclusion
 
 * ANOVA Results
